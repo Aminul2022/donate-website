@@ -134,12 +134,31 @@ body {
 
 .sec3-box1 {
     background-color: #edf5f6;
+    /* margin-top: 50px; */
+    padding-top: 50px;
+    padding-left: 15px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    text-align: left;
+    margin-right: 15px;
 }
 
 .sec3-box2 {
     background-color: #ffeeee;
+    padding-top: 50px;
+    padding-left: 15px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    text-align: left;
+    margin-right: 15px;
 }
 
 .sec3-box3 {
     background-color: #fff4d6;
+    padding-top: 50px;
+    padding-left: 15px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    text-align: left;
+
 }
