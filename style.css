@@ -14,9 +14,28 @@ body {
 
 }
 
-.div1-class {}
+.sec1-color {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+.sec2-color {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
 
 .btn-donate {
-    box-shadow: 8px 8px 16px rgb(17, 16, 16);
+    box-shadow: 12px 12px 16px rgb(17, 16, 16);
     border-radius: 5px;
+    color: white;
+    text-align: center;
+    margin-left: 50%;
+    background-color: tomato;
+    padding: 15px 15px 15px 15px;
+    font-weight: 800;
+    width: 10%;
+    height: 10%;
+    font-size: 15px;
 }
